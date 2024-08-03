@@ -7,7 +7,12 @@
 Socket概念：   
 Linux系统中，二层到四层都是在 Linux 内核里面处理的，应用层都是用户态的。   
 应用层和内核互通的机制，就是通过 Socket 系统调用。Socket属于操作系统的概念，而非网络协议分层的概念。   
-<img src="https://github.com/Yongli-Lisa/Linux-Notes1/blob/cc012dded2b0dd0382dfe6057b937066cbde7fa6/Img/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/Socket%E9%80%9A%E4%BF%A1.PNG" width="600px">
+<img src="https://github.com/Yongli-Lisa/Linux-Notes1/blob/cc012dded2b0dd0382dfe6057b937066cbde7fa6/Img/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/Socket%E9%80%9A%E4%BF%A1.PNG" width="600px">   
+&emsp;
+&emsp;
+&emsp;
+Socket系统调用：   
+<img src="https://github.com/Yongli-Lisa/Linux-Notes1/blob/00aade7183a7dd5ffe6519bd2f5dfcbbf5814f16/Img/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/Socket%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8.PNG" width="300px">
 &emsp;
 &emsp;
 &emsp;
