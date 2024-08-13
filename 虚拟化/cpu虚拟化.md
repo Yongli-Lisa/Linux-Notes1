@@ -1,6 +1,6 @@
 
 <img src="https://github.com/Yongli-Lisa/Linux-Notes1/blob/aec10522017a25c190e8c4e13270457d97184cb6/Img/%E8%99%9A%E6%8B%9F%E5%8C%96/cpu%E8%99%9A%E6%8B%9F%E5%8C%961.PNG" width="700px">  
-<img src="https://github.com/Yongli-Lisa/Linux-Notes1/blob/aec10522017a25c190e8c4e13270457d97184cb6/Img/%E8%99%9A%E6%8B%9F%E5%8C%96/cpu%E8%99%9A%E6%8B%9F%E5%8C%962.PNG" width="600px">
+<img src="https://github.com/Yongli-Lisa/Linux-Notes1/blob/aec10522017a25c190e8c4e13270457d97184cb6/Img/%E8%99%9A%E6%8B%9F%E5%8C%96/cpu%E8%99%9A%E6%8B%9F%E5%8C%962.PNG" width="800px">
 
 **CPU虚拟化步骤：**  
 1. 初始化所有的 Module   
@@ -13,7 +13,7 @@
     
 
 **CPU虚拟化过程：**  
-<img src="https://github.com/Yongli-Lisa/Linux-Notes1/blob/aec10522017a25c190e8c4e13270457d97184cb6/Img/%E8%99%9A%E6%8B%9F%E5%8C%96/MachineClass.PNG" width="1000px">  
+<img src="https://github.com/Yongli-Lisa/Linux-Notes1/blob/aec10522017a25c190e8c4e13270457d97184cb6/Img/%E8%99%9A%E6%8B%9F%E5%8C%96/MachineClass.PNG" width="800px">  
 <img src="https://github.com/Yongli-Lisa/Linux-Notes1/blob/aec10522017a25c190e8c4e13270457d97184cb6/Img/%E8%99%9A%E6%8B%9F%E5%8C%96/CPU%20%E7%9A%84%E8%99%9A%E6%8B%9F%E5%8C%96%E8%BF%87%E7%A8%8B.png" width="1500px">  
 
 
